@@ -75,5 +75,5 @@ I hope we can show people better analysis of earthquakes and take the earthquake
 
 ---
 
-[Notebook in Kaggle](https://www.kaggle.com/taygunkara/earthquakes-in-turkey)
+[Notebook in Kaggle](https://www.kaggle.com/taygunkara/earthquakes-in-turkey)  
 [Dataset in Kaggle](https://www.kaggle.com/taygunkara/earthquakes-of-republic-of-turkey)
